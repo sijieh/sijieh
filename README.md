@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- I am Iris, a data scientist passionate about leveraging data-driven solutions to optimize business strategies, forecast trends, and drive business impact. With a strong foundation in applied data science and marketing analytics, I thrive in blending advanced analytics with strategic decision-making.
+I am Iris, a data scientist passionate about leveraging data-driven solutions to optimize business strategies, forecast trends, and drive business impact. With a strong foundation in applied data science and marketing analytics, I thrive in blending advanced analytics with strategic decision-making.
 
 Contact me:
 - 📧 sijie.huang8@gmail.com
