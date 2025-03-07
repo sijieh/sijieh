@@ -7,4 +7,8 @@ Here are some ideas to get you started:
 
 -->
 
-I am a data scientist with a strong background in applied data science and economics, currently pursuing a Master’s in Applied Data Science at the University of Chicago. With experience in marketing science, data analytics, and machine learning, I thrive at the intersection of data and business impact.
+- I am Iris, a data scientist passionate about leveraging data-driven solutions to optimize business strategies, forecast trends, and drive business impact. With a strong foundation in applied data science and marketing analytics, I thrive in blending advanced analytics with strategic decision-making.
+
+Contact me:
+- 📧 sijie.huang8@gmail.com
+- 📨 [LinkedIn Profile](https://www.linkedin.com/in/sijie-iris-huang/)
