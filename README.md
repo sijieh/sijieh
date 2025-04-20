@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Iris Huang, a data scientist!
 
 <!--
 **sijieh/sijieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
