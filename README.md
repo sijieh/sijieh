@@ -1,14 +1,30 @@
-## Iris Huang - Data Science & Analytics
+# 👋 Hi, I'm Iris Huang
 
-<!--
-**sijieh/sijieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data scientist with a background in marketing analytics and a passion for uncovering insights through data. With 3+ years of experience in ad tech and a Master’s in Applied Data Science from the University of Chicago, I bridge business intuition with machine learning to drive smarter decisions.
 
-Here are some ideas to get you started:
+---
 
--->
+## 🧠 What I Do
 
-I am Iris, a data scientist passionate about leveraging data-driven solutions to optimize business strategies, forecast trends, and drive business impact. With a strong foundation in applied data science and marketing analytics, I thrive in blending advanced analytics with strategic decision-making.
+- 📊 **Marketing & Product Analytics** — turning campaign, user, and web data into measurable growth
+- 🤖 **Machine Learning** — building predictive models for customer behavior, pricing, and personalization
+- ⚙️ **Big Data & Cloud Tools** — experienced in PySpark, BigQuery, GCP, AWS, and large-scale pipelines
+- 🎯 **Experimentation** — A/B testing, causal inference, and conversion optimization
+  
+---
 
-Contact me:
-- 📧 sijie.huang8@gmail.com
-- 📨 [LinkedIn Profile](https://www.linkedin.com/in/sijie-iris-huang/)
+## 📫 Let's Connect
+
+- 📧 sijie.huang8@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sijiehuang/)  
+
+---
+
+## 🛠 Tech Stack
+
+`Python` `SQL` `Pandas` `Scikit-learn` `TensorFlow/Keras` `Matplotlib` `seaborn` 
+`PySpark` `BigQuery` `GCP` `Tableau` `Git` `Jupyter`  `Hadoop`
+
+---
+
+Thanks for visiting my GitHub! Feel free to check out my projects or reach out to collaborate.
