@@ -16,7 +16,7 @@ I'm a data scientist with a background in marketing analytics and a passion for 
 ## 📫 Let's Connect
 
 - 📧 sijie.huang8@gmail.com  
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/sijie-iris-huang/])  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sijie-iris-huang/)
 
 ---
 
