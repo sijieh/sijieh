@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Iris Huang
 
-I'm a data scientist with a background in marketing analytics and a passion for uncovering insights through data. With 3+ years of experience in ad tech and a Master’s in Applied Data Science from the University of Chicago, I bridge business intuition with machine learning to drive smarter decisions.
+I'm a data scientist with a background in marketing analytics and a passion for uncovering insights through data. With 3+ years of experience in ad tech and a Master’s in Applied Data Science from the University of Chicago, I bridge business intuition with data analytics to drive smarter decisions.
 
 ---
 
