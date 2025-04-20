@@ -23,8 +23,8 @@ I'm a data scientist with a background in marketing analytics and a passion for 
 ## 🛠 Tech Stack
 
 `Python` `SQL` `Pandas` `Scikit-learn` `TensorFlow/Keras` `Matplotlib` `seaborn` 
-`PySpark` `BigQuery` `GCP` `Tableau` `Git` `Jupyter`  `Hadoop`
+`PySpark` `BigQuery` `GCP` `Tableau` `Hadoop`
 
 ---
 
-Thanks for visiting my GitHub! Feel free to check out my projects or reach out to collaborate.
+Thanks for visiting my GitHub!
